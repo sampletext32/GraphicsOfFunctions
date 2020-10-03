@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GraphicsNamespace.Equation" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAACwAAAAAIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Equation_ByPoints" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAIAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equation_ByPoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Expression" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAEAAAA=</HashCode>
+      <FileName>Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.FromExpresssion_Equation" Collapsed="true">
+    <Position X="13" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>FromExpresssion_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Giperbolic_Equation" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Giperbolic_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Linear_Equation" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Linear_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.MainForm" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wl2Q5DEBrA8gFgwRRz4Up4DEi55goABntcRALboggc=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.MovingPoint" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAAAIAAQAAAAAAAAAAAAAAAAQAAAAAAgAAACAA=</HashCode>
+      <FileName>MovingPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Numeric_Equation" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Numeric_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Program" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Quad_Equation" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAIAEAAAA=</HashCode>
+      <FileName>Quad_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Sqrt_Equation" Collapsed="true">
+    <Position X="15.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Sqrt_Equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Properties.Resources" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsNamespace.Properties.Settings" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
